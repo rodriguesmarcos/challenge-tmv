@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Lorem ipsum dolor",
+      "price": 99.9,
+      "image": "https://picsum.photos/260/260?random=1"
+    },
+    {
+      "id": 2,
+      "title": "Aliquam sem et tortor consequat",
+      "price": 159.9,
+      "image": "https://picsum.photos/260/260?random=2"
+    },
+    {
+      "id": 3,
+      "title": "Egestas erat imperdiet",
+      "price": 299.9,
+      "image": "https://picsum.photos/260/260?random=3"
+    },
+    {
+      "id": 4,
+      "title": "sollicitudin ac orci phasellus egestas",
+      "price": 119.9,
+      "image": "https://picsum.photos/260/260?random=4"
+    },
+    {
+      "id": 5,
+      "title": "Dui nunc mattis",
+      "price": 59.9,
+      "image": "https://picsum.photos/260/260?random=5"
+    },
+    {
+      "id": 6,
+      "title": "Augue eget arcu dictum",
+      "price": 179.9,
+      "image": "https://picsum.photos/260/260?random=6"
+    }
+  ]
+}
